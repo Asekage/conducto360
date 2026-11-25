@@ -1,0 +1,17 @@
+{
+  "name": "Conducto 360°",
+  "short_name": "Conducto 360",
+  "description": "Shooter tubular 3D creado por ASEKAGE",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "background_color": "#050302",
+  "theme_color": "#050302",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
